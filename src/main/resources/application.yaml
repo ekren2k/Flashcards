@@ -1,0 +1,5 @@
+spring:
+  banner:
+    charset: UTF-8
+  profiles:
+    active: lowercase
